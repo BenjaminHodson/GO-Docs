@@ -1,2 +1,2 @@
 # GO-Docs
-Understanding GO in 2023
+Learning Go via GOing through the Docs :P
